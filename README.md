@@ -102,3 +102,6 @@ contributors. NodeAtlas is licensed under GPLv3. See [LICENSE][] for
 full detials.
 
   [LICENSE]: ./LICENSE
+
+---
+**Status:** ⚠️ ARCHIVED - See ARCHIVE.md for migration path
